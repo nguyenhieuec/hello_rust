@@ -1,0 +1,8 @@
+# rust-lessons/Cargo.toml
+[workspace]
+members = [
+    "lesson0",
+    "lesson1",
+    "lesson2"
+    # Add more as you go
+]
